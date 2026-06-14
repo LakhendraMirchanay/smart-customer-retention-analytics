@@ -40,7 +40,7 @@ st.markdown("""
 # -----------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("European_Bank.csv")
+    df = pd.read_csv("./Bank_Churn_Project/European_Bank.csv")
     return df
 
 df = load_data()
