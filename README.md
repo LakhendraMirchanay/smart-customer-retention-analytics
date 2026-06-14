@@ -1,8 +1,5 @@
 # smart-customer-retention-analytics
 Machine Learning based customer churn prediction and retention analytics system built with Python and Streamlit.
-# Smart Customer Retention Analytics System
-
-A Machine Learning-based web application that predicts customer churn and generates risk scores for banking customers.
 
 ## Features
 
